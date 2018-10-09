@@ -1,0 +1,103 @@
+characters: 1194841
+words: 117998
+lines: 1958
+<partially shared multi-task convolutional neural network with local constraint>: 11
+<beyond holistic object recognition: enriching image understanding with part states>: 10
+<blazingly fast video object segmentation with pixel-wise metric learning>: 10
+<cocktail network: multi-source unsupervised domain adaptation with category shift>: 10
+<cross-domain self-supervised multi-task feature learning using synthetic>: 10
+<cross-domain weakly-supervised object detection through progressive domain adaptation>: 10
+<deep cocktail network: multi-source unsupervised domain adaptation with category>: 10
+<deep video super-resolution network using dynamic upsampling filters without>: 10
+<defense against adversarial attacks using high-level representation guided denoiser>: 10
+<domain self-supervised multi-task feature learning using synthetic imagery>: 10
+<generate time-lapse videos using multi-stage dynamic generative adversarial>: 10
+<good view hunting: learning photo composition from dense view pairs>: 10
+<image blind denoising with generative adversarial network based noise modeling>: 10
+<learning compact recurrent neural networks with block-term tensor decomposition>: 10
+<learning time/memory-efficient deep architectures with budgeted super networks>: 10
+<match: improving textual-visual cross-modal retrieval with generative models>: 10
+<real-time monocular depth estimation using synthetic data with domain>: 10
+<real-time rotation-invariant face detection with progressive calibration networks>: 10
+<resolution network using dynamic upsampling filters without explicit motion compensation>: 10
+<rolling shutter effects correction using lines with automatic feature selection>: 10
+<strong rolling shutter effects correction using lines with automatic feature>: 10
+<super-resolution network using dynamic upsampling filters without explicit motion>: 10
+<time monocular depth estimation using synthetic data with domain adaptation>: 10
+<time-lapse videos using multi-stage dynamic generative adversarial networks>: 10
+<trust your model: light field depth estimation with inline occlusion>: 10
+<video super-resolution network using dynamic upsampling filters without explicit>: 10
+<weakly supervised phrase localization with multi-scale anchored transformer network>: 10
+<weakly-supervised semantic segmentation network with deep seeded region growing>: 10
+<your model: light field depth estimation with inline occlusion handling>: 10
+<zero-shot visual recognition using semantics-preserving adversarial embedding networks>: 10
+<absent. although various feature extraction mechanisms have been leveraged from>: 1
+<accumulating class-specific evidence over time, potentially affecting subsequent proposals>: 1
+<accurately localize free-form textual phrases with only image-level>: 1
+<achieve excellent results under additive white gaussian noise (awgn), which>: 1
+<achieve high targeted misclassification rates against standard-architecture road sign>: 1
+<achieves significantly better performance than several baseline methods, including faster>: 1
+<achieving significant improvements over existing pixel-wise methods. using simple>: 1
+<action sets provide much less supervision since neither action ordering>: 1
+<actions often involve complex interactions across several inter-related objects>: 1
+<actions. such action sets provide much less supervision since neither>: 1
+<active perception, goal-driven navigation, commonsense reasoning, long-term memory>: 1
+<active projector source. however, matching images from different spectral bands>: 1
+<addition, this model learns from unpaired image sets with different>: 1
+<additionally, circular light fields allow retrieving depth from datasets acquired>: 1
+<addresses weakly supervised object detection with only image-level supervision>: 1
+<adjusting their composition. most weakly supervised cropping methods (without bounding>: 1
+<adopt core network structures that universally reflect loose prior knowledge>: 1
+<advantage over active sensing devices. depth computed from light fields>: 1
+<adversarial network (attngan) that allows attention-driven, multi-stage refinement>: 1
+<adversarial subspace clustering (dasc) model, which learns more favorable sample>: 1
+<aesthetics aware reward function which especially benefits image cropping. similar>: 1
+<after representing sparse code functions  using fourier temporal pyramid. experiments>: 1
+<against source features. results show that both enforcing domain-invariance>: 1
+<algorithm achieves visually compelling results with little halo artifacts, outperforming>: 1
+<algorithms cannot parse them. existing methods fail when faced with>: 1
+<alleviate these issues, this paper proposes inverse composition discriminative optimization>: 1
+<allow retrieving depth from datasets acquired with telecentric lenses, which>: 1
+<allowing simple integration with arbitrary compression methods. extensive experiments, including>: 1
+<also capture apparent visual similarity among categories without being directed>: 1
+<also feeding back with direct guidance towards specific tasks. under>: 1
+<also show that rotationnet, even trained without known poses, achieves>: 1
+<alternating optimization framework with gradual discrepancy minimization. extensive experimental results>: 1
+<although current deep learning approaches show superior performance when considering>: 1
+<although these methods have demonstrated impressive results, their performance highly>: 1
+<although various feature extraction mechanisms have been leveraged from natural>: 1
+<always increasing image brightness, which turns them into ideal candidates>: 1
+<appearance variations. second, there exists severe class imbalance between positive>: 1
+<applications. recently, automated building footprint segmentation models have shown superior>: 1
+<applied after representing sparse code functions  using fourier temporal pyramid>: 1
+<approach combines fast single-image object detection with convolutional long>: 1
+<approach divides long person sequences into multiple short video snippets>: 1
+<approach generates higher-quality inpainting results than existing ones. code>: 1
+<approach provides significantly better results than simpler decomposable loss functions>: 1
+<approach that extends upon modeling simple image-label pairs with>: 1
+<approaches show superior performance when considering quantitative benchmark results, traditional>: 1
+<appropriately controlled environment. this implies that conventional computer vision techniques>: 1
+<appropriately styled. existing approaches either require styled training captions aligned>: 1
+<approximate pooling methods with compact properties have been explored towards>: 1
+<arbitrarily aligned person images potentially with large human pose variations>: 1
+<arbitrary compression methods. extensive experiments, including user studies, confirm that>: 1
+<argue that visual recognition models have recently become accurate enough>: 1
+<argue that, these regions contain significant common features about objects>: 1
+<artificial intelligence. most existing methods simply borrow ideas from image>: 1
+<associated with multiple image regions, existing work oversimplifies this task>: 1
+<attention driven framework. through multi-path recurrent connections, global semantic>: 1
+<attention guided network which selectively integrates multi-level contextual information>: 1
+<attention mechanism explicitly encodes static saliency information, thus allowing lstm>: 1
+<attentional generative adversarial network (attngan) that allows attention-driven, multi>: 1
+<attentive multi-view inference (vami) model that only requires visual>: 1
+<augment training data with person images with random background. extensive>: 1
+<autoencoder with skip-connections, which incorporates facial attribute vectors into>: 1
+<automated building footprint segmentation models have shown superior detection accuracy>: 1
+<automatically construct accurate road network maps from aerial images. roadtracer>: 1
+<automatically generate face images with different expressions under arbitrary poses>: 1
+<autonomous driving scene exhibit very large scale changes, which poses>: 1
+<average precision, using deep neural networks. this general-purpose solution>: 1
+<aware attentive multi-view inference (vami) model that only requires>: 1
+<aware filter that passes subtle changes only under quick large>: 1
+<aware multi-stream densely connected convolutional neural network-based algorithm>: 1
+<back with direct guidance towards specific tasks. under mild assumptions>: 1
