@@ -1,5 +1,2 @@
-﻿  CountMeths.cpp
-e:\vsdemos\wordcount2\wordcount\wordcount\countmeths.cpp(231): warning C4018: “>”: 有符号/无符号不匹配
-  WordCount.cpp
-  正在生成代码...
+﻿  IOFile.cpp
   WordCount.vcxproj -> E:\VSdemos\WordCount2\WordCount\Debug\WordCount.exe

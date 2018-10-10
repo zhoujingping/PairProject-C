@@ -33,5 +33,10 @@ void IOFile::OutString(string filename)
 		printf("open erro!\n");
 	}
 	fwrite(ex_content.c_str(),ex_content.length(),1,fileout);
+
 	fclose(fileout);
+}
+void IOFile::Ex_content(string ex)
+{
+	ex_content = ex;
 }
