@@ -74,7 +74,7 @@ int solve(int l, int r, int w, int m) {
 
 pii CountWord(char *name) {
 	int ch;
-	FILE *stream;// tree.ini();
+	FILE *stream;
 	M.clear();
 	freopen_s(&stream, name, "r", stdin);
 	int words = 0, line = 0, len = 0, rnow = 0;
