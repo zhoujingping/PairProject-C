@@ -17,8 +17,14 @@ int CountChar(char *name) {
 	while (ch = getchar()) {
 		if (ch >= 128) continue;
 		if (ch == '\n' || ch == -1) {
-			if (rnow == 1) characters += len - 7;
-			if (rnow == 2) characters += len - 10;
+			if (rnow == 1) {
+				characters += len - 7;
+				if (ch != -1) characters++;
+			}
+			if (rnow == 2) {
+				characters += len - 10;
+				if (ch != -1) characters++;
+			}
 			rnow = (rnow + 1) % 5;
 			len = 0;
 			if (ch == -1) break;
