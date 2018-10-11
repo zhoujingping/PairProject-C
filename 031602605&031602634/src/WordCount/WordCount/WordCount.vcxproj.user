@@ -9,11 +9,11 @@
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>-i ./input.txt -o ./result.txt -w 1 -m 60 -n 100</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>-i ./input.txt -o output.txt -w 1  -m 2</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <LocalDebuggerCommandArguments>./input1.txt</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>-i ./input.txt -o output.txt -w 1  -m 2</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
