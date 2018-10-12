@@ -1,3 +1,0 @@
-﻿  WordCount.cpp
-c:\users\administrator\desktop\软工实践\pairproject-c\031602305&031602308\src\wordcount\wordcount.cpp(286): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
-  WordCount.vcxproj -> C:\Users\Administrator\Desktop\软工实践\PairProject-C\031602305&031602308\src\x64\Debug\WordCount.exe
