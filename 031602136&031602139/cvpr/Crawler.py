@@ -4,9 +4,10 @@
 import requests
 from lxml import etree
 import sys  
+import io
 
 reload(sys)  
-sys.setdefaultencoding('utf8')  
+sys.setdefaultencoding('utf-8')  
  
 #我们抓取的页面链接
 originURL='http://openaccess.thecvf.com/CVPR2018.py'
@@ -22,22 +23,21 @@ paperURL=originObj.xpath('//*[@id="content"]/dl/dt/a/@href')
 #author=originObj.xpath('//*[@id="content"]/dl/dd/div/div/text()[2]')
 pdfLink=originObj.xpath('//*[@id="content"]/dl/dd/a[1]/@href')
 
-author[]
+author=[]
 abstract=[]
 
 for iterURL in paperURL:
 	iterURL='http://openaccess.thecvf.com/'+iterURL
 	iterText=requests.get(iterURL).text
 	iterObj=etree.HTML(iterText)
-	
 	iterAuthor=iterObj.xpath('//*[@id="authors"]/b/i/text()')
-    iterAbstract=iterObj.xpath('//*[@id="abstract"]/text()')
+	iterAbstract=iterObj.xpath('//*[@id="abstract"]/text()')
 	iterAbstract[0]=iterAbstract[0].replace('\n','')
 	author.append(iterAuthor[0])
 	abstract.append(iterAbstract[0])
 
 #输出到文件
-outFile = open('result.txt', 'w')
+outFile = io.open('result.txt', 'w', encoding='utf-8')
 for i in range(len(paperName)):
 	outFile.write(str(i)+"\n")
 	outFile.write("Title: "+paperName[i]+"\n")
@@ -47,8 +47,4 @@ for i in range(len(paperName)):
 	if i <> (len(paperName)-1):
 		outFile.write("\n\n\n")
 outFile.close()
-
-	
-	
-
  
