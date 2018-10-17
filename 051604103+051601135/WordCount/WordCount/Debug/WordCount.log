@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+c:\users\我\desktop\wordcount\wordcount\stdafx.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+  WordCount.cpp
+  WordCount.vcxproj -> C:\Users\我\Desktop\WordCount\Debug\WordCount.exe
