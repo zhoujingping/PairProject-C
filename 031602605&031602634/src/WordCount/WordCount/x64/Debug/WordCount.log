@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+d:\pairproject-c\031602605&031602634\src\wordcount\wordcount\stdafx.cpp(112): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\pairproject-c\031602605&031602634\src\wordcount\wordcount\stdafx.cpp(145): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\pairproject-c\031602605&031602634\src\wordcount\wordcount\stdafx.cpp(30): warning C4101: “wordpos”: 未引用的局部变量
+  WordCount.cpp
+  WordCount.vcxproj -> D:\PairProject-C\031602605&031602634\src\WordCount\x64\Debug\WordCount.exe

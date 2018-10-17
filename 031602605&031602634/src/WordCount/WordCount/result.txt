@@ -1,0 +1,13 @@
+characters: 84
+words: 10
+lines: 2
+<Abstract: face>: 10
+<detection>: 10
+<Title: finding>: 1
+<adversarial>: 1
+<faces>: 1
+<generative>: 1
+<network>: 1
+<tiny>: 1
+<wild>: 1
+<with>: 1
